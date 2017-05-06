@@ -1,0 +1,20 @@
+body {
+  background-color: black;
+}
+h1 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+p {
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
+  text-align: center;
+}
+p.call-to-action a {
+  font-size: 16px;
+  color: Aquamarine;
+}
